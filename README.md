@@ -1,8 +1,8 @@
 # Hey, I'm Oscar 👋
 
-**Developer & Tech Lead** based in Somerset, England 🇬🇧
+**Developer & Tech Lead** based in London, England 🇬🇧
 
-I build intelligent systems that connect people with opportunities — specialising in ML-powered candidate matching, data pipelines, and full-stack development.
+Building intelligent systems that connect people with opportunities. ML-powered candidate matching, data pipelines, and full-stack engineering.
 
 ## 🛠️ Tech Stack
 
@@ -25,9 +25,9 @@ Tech Lead at **Logan Sinclair**, a boutique recruitment firm specialising in ass
 ## 📫 Get In Touch
 
 - **Portfolio:** [Coming Soon](#)  
-- **Location:** Taunton, Somerset, England  
+- **Location:** London, England  
 - **Interests:** Tennis · AI/ML · Nature · Building useful things
 
 ---
 
-_"Make it work, make it right, make it fast."_
+**Ship fast. Build better.**
