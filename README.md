@@ -15,32 +15,19 @@ Building intelligent systems that connect people with opportunities.
 
 ### About Me
 
-I'm a Tech Lead at **Logan Sinclair**, a boutique recruitment firm in financial services. I design and build ML-powered platforms for intelligent candidate sourcing and matching — semantic search, NLP pipelines, and full-stack tooling that makes recruiters faster and smarter.
-
-Outside of work, I build things that interest me: voice-controlled AI assistants, sports prediction models, and automation tools.
+Tech Lead at **Logan Sinclair**, building ML-powered platforms for intelligent candidate sourcing and matching in financial services. Python, NLP, and full-stack engineering.
 
 ---
 
-### Featured Projects
+### Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🎙️ [**ed-voice**](https://github.com/Oskito00/ed-voice) | Local voice client for a FRIDAY-style AI assistant. Wake word detection, local STT, and natural TTS — entirely free stack. | Python · faster-whisper · OpenClaw |
-| ⚽ **sports-predictions** | Premier League match predictor using historical data and ML models. | Python · scikit-learn · Pandas |
-| 🔍 **coco-search** | Real-time listing tracker with instant notifications — never miss a deal. | Python · Web Scraping · Notifications |
-| 🏖️ **macan-controller** | Beach club management and booking platform. | Python · FastAPI · Svelte |
+🎙️ [**ed-voice**](https://github.com/Oskito00/ed-voice) — Local voice client for a FRIDAY-style AI assistant, built on OpenClaw with wake word detection and free local STT/TTS.
 
----
+⚽ **sports-predictions** — Premier League match predictor using historical data and ML models.
 
-### Tech Stack
+🔍 **coco-search** — Real-time listing tracker with instant notifications so you never miss a deal.
 
-```
-Languages        Python · TypeScript · SQL
-ML & AI          sentence-transformers · PyTorch · scikit-learn · NLP
-Backend          FastAPI · PostgreSQL · REST APIs · Vector Search
-Frontend         Svelte · Vite · HTML/CSS
-Infrastructure   Docker · DigitalOcean · Linux · CI/CD
-```
+🏖️ **macan-controller** — Beach club management and booking platform.
 
 ---
 
