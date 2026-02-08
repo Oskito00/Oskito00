@@ -7,7 +7,7 @@
 Building intelligent systems that connect people with opportunities.
 
 [![Website](https://img.shields.io/badge/Website-oscaralberigo.co.uk-0A0A0A?style=flat-square&logo=google-chrome&logoColor=white)](https://www.oscaralberigo.co.uk/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscaralberigo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-alberigo-593744258/)
 
 </div>
 
